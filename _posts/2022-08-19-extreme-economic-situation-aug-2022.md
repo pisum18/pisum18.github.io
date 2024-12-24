@@ -2,6 +2,7 @@
 title: Extreme economic situation in the Netherlands
 layout: post
 date: 19-08-2022
+category: essay
 ---
 
 ## Introduction
