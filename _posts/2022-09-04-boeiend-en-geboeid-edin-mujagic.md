@@ -2,6 +2,7 @@
 layout: post
 title: "Boeiend en geboeid: een monetaire geschiedenis van Nederland sinds 1814/1816"
 date: 2022-09-04
+category: books
 ---
 ## Introductie
 

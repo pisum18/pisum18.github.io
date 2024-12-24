@@ -2,6 +2,7 @@
 layout: post
 title: De staat van het klimaat
 date: 2022-09-04
+category: books
 ---
 ## Introductie
 Laatst vond ik dit boek tijdens een wandeling in een minibieb. Ik was meteen getriggerd toen ik het boek zag, daarom nam ik het mee. Tegenwoordig worden heel veel weersextremen snel toegeschreven aan klimaatverandering. Maar kun je dat echt zo makkelijk zeggen? Dit 13 jaar oude boek (geschreven in 2009) gaat op een genuanceerde manier in op dit soort vraagstukken. Hoewel het boek zich duidelijk profileert als kritisch ten opzichte van de mainstream visie op klimaat voelt het alleszins als een klimaatsceptisch boek. Vanuit de mainstream klimaatvisie zullen de auteurs absoluut te boek staan als klimaatsceptici. 
