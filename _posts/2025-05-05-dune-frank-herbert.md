@@ -1,9 +1,9 @@
 ---
-title: 
+title: Dune
 layout: post
-date: 1999-01-01
+date: 2025-05-05
 category: books
-published: False
+published: True
 ---
 
 ## Introductie
