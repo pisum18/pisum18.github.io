@@ -11,9 +11,20 @@ published: True
 
 Dit boek stond ook al een tijdje op mijn leeslijst. Ik ben vooral benieuwd geworden naar dit boek vanwege de films die in de bioscoop waren, die op basis van dit boek gemaakt zijn. Verder kwam ik na een tijdje surfen erachter dat dit boek (en de rest van de serie die erbij hoort) heel bekend is in de sci-fi wereld.
 
+Edit 2025-05-08: ik heb intussen beide films gezien (Dennis Villeneuve) en kan bevestigen dat de films in grote lijnen qua gebeurtenissen het boek volgen, maar dat er zeker een aantal bijzondere wijzigingen gedaan zijn ten opzichte van het boek. Ik ben altijd van mening geweest dat de adaptatie van een boek naar film altijd de precieze gebeurtenissen en lijn van het boek moet volgen. Ik heb wat beschouwingen over Dune: part 2 gelezen, en ben tot de conclusie gekomen dat ik dit inzicht toch een beetje moet herzien. Niet alleen in het geval van Dune, maar ook bij veel andere films wordt ervoor gekozen om de lengte van de film te beperken (in tegenstelling tot bijvoorbeeld The Lord of The Rings) en daardor is het onvermijdelijk dat er veel stukken en verhaallijnen weggelaten moeten worden. Dit zal altijd discussie opleveren, en zal vaak lastig zijn. Het is wensdenken om te verwachten dat een complex boek van 800+ pagina's in 2 films van 2,5 uur runtime volledig vervat kunnen worden.
+
+Bovendien ben ik tot het inzicht gekomen dat het erom gaat dat de film dezelfde boodschap of intentie als het boek uitstraalt. Zolang dit het geval is, kan er sprake zijn van een goede verfilming van het boek. Een ander aspect van hoe goed een verfilming is, zijn natuurlijk keuzes als: welke cinematografie wordt gekozen, welke muziek wordt gekozen, welke acteurs spelen een hoofdrol.
+
+Een aantal zaken die ik wel miste in de Dune films, (of juist weggelaten zou willen zien)
+
+- vooral in Dune: part 2 lijken 1 of 2 extra vechtscenes ingelast, die in het boek er niet zijn. Dit voegt wat mij betreft niks toe
+- het aspect 'waterdiscipline', wat zo enorm belangrijk is in de boeken wordt mijns inziens te summier uitgelegd. Ik denk bijvoorbeeld aan de zin 'he is giving water to the dead', welke in het boek een enorm respect van de Fremen gemeenschap voor Paul Atreides wist op te roepen (dit is bij het gevecht met Jamis)
+
+
+Het belangrijkste discussiepunt welke ik online zag over het verschil tussen het boek Dune, en de twee films is dat het karakter en de intentie van de hoofdrolspelers anders zijn dan in de boeken. Het aan de macht komen van Paul Atreides wordt nog sterker neergezet als een plot van de Bene Gesserit om de wereldgeschiedenis te bepalen, Lady Jessica is veel sluwer in het bespelen van de Fremen om Paul aan de macht te krijgen, en Chani staat in het boek volledig achter Paul, maar in de film groeien ze uit elkaar. Bovendien lijkt Paul aan het einde van de 2e Dune film iets machtsbeluster te zijn dan aan het einde van het boek.
+
 
 ## Samenwatting
-
 
 Het verhaal van Dune speelt zich af in een heel ander universum dan het onze. Ja, er is eens een aarde geweest, maar dat is lang, lang geleden. Er zijn nu heel veel planeten die bewoond zijn, en de technologie is over het algemeen op een heel hoog niveau.
 
